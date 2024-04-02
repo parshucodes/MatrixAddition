@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\matrixaddition\bin\Debug\net6.0\MatrixAddition.exe
+C:\Users\parsh\Documents\Projects\matrixaddition\bin\Debug\net6.0\MatrixAddition.deps.json
+C:\Users\parsh\Documents\Projects\matrixaddition\bin\Debug\net6.0\MatrixAddition.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\matrixaddition\bin\Debug\net6.0\MatrixAddition.dll
+C:\Users\parsh\Documents\Projects\matrixaddition\bin\Debug\net6.0\MatrixAddition.pdb
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.dll
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\refint\MatrixAddition.dll
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.pdb
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\MatrixAddition.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\matrixaddition\obj\Debug\net6.0\ref\MatrixAddition.dll
